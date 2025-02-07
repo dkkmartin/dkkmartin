@@ -12,5 +12,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkkmartin&show_icons=true&locale=en&layout=compact" alt="dkkmartin" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkkmartin&show_icons=true&theme=dracula&locale=en" alt="dkkmartin" /></p>
-
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkkmartin&" alt="dkkmartin" /></p>
